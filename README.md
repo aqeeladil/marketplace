@@ -22,11 +22,8 @@ python3 manage.py runserver
 **Here is a quick image display for the whole application**
 
 ![screen](screen1.png)
-<br><br>
 ![screen](screen2.png)
-<br><br>
 ![screen](screen3.png)
-<br><br>
 ![screen](screen4.png)
 
 
