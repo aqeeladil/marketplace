@@ -1,6 +1,7 @@
-# marketplace
-an online e-commerce platform for buying and selling of new and used items.
+# Marketplace
+An online platform for buying and selling of new and used items.
 
+<br>
 
 To run this locally, run these commands:
 ```html
